@@ -1,0 +1,27 @@
+Basic Questions:
+
+1. What is a tuple in Python?
+2. How do you create a tuple?
+3. How do you access elements in a tuple?
+4. Can you modify a tuple? Why or why not?
+5. How do you compare tuples?
+
+Common Problems:
+
+1. Create a tuple from a list: Write a function to create a tuple from a list.
+2. Find the length of a tuple: Write a function to find the length of a tuple.
+3. Check if an element exists in a tuple: Write a function to check if an element exists in a tuple.
+4. Find the index of an element in a tuple: Write a function to find the index of an element in a tuple.
+5. Count the occurrences of an element in a tuple: Write a function to count the occurrences of an element in a tuple.
+6. Sort a tuple: Write a function to sort a tuple.
+7. Find the maximum/minimum element in a tuple: Write a function to find the maximum or minimum element in a tuple.
+8. Check if a tuple is empty: Write a function to check if a tuple is empty.
+
+Advanced Problems:
+
+1. Find the most frequent element in a tuple: Write a function to find the most frequent element in a tuple.
+2. Find the unique elements in a tuple: Write a function to find the unique elements in a tuple.
+3. Find the intersection/union of two tuples: Write a function to find the intersection or union of two tuples.
+4. Find the difference between two tuples: Write a function to find the difference between two tuples.
+5. Check if a tuple is a subset of another tuple: Write a function to check if a tuple is a subset of another tuple.
+
