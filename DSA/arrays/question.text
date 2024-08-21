@@ -1,0 +1,26 @@
+Basic Questions:
+
+1. How do you initialize an empty list in Python?
+2. How do you append an element to a list?
+3. How do you access an element at a specific index in a list?
+4. How do you update an element at a specific index in a list?
+5. How do you delete an element from a list?
+
+Common Problems:
+
+1. Reverse a list: Write a function to reverse a list.
+2. Find the maximum/minimum element: Write a function to find the maximum or minimum element in a list.
+3. Sort a list: Write a function to sort a list in ascending or descending order.
+4. Remove duplicates: Write a function to remove duplicates from a list.
+5. Find the intersection/union of two lists: Write a function to find the intersection or union of two lists.
+6. Rotate a list: Write a function to rotate a list by a given number of positions.
+7. Check if a list is palindrome: Write a function to check if a list is a palindrome.
+8. Find the first duplicate: Write a function to find the first duplicate element in a list.
+
+Advanced Problems:
+
+1. Merge two sorted lists: Write a function to merge two sorted lists into one sorted list.
+2. Find the median of a list: Write a function to find the median of a list.
+3. Find the most frequent element: Write a function to find the most frequent element in a list.
+4. Find the longest increasing subsequence: Write a function to find the longest increasing subsequence in a list.
+5. Find the longest common prefix: Write a function to find the longest common prefix among all elements in a list.
